@@ -1,4 +1,3 @@
-var score = 0;
 var readlineSync = require('readline-sync'); //import readline to ask question
 
 var score = 0;
